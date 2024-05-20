@@ -4,6 +4,8 @@
   "description": "Hello i am making a website",
   "main": "App.js",
   "scripts": {
+    "start" :"parcel index.html",
+    "build" :"parcel build index.html",
     "test": "jest"
   },
   "author": "Nishant",
