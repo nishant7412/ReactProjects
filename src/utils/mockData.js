@@ -1,0 +1,193 @@
+ const resList=[                  {
+    "info": {
+      "id": "862280",
+      "name": "Chinese Wok",
+      "cloudinaryImageId": "1eb780b85af2f938a43a7581927eca5f",
+      "locality": "Bhuwana",
+      "areaName": "Nexus Celebration Mall",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Chinese",
+        "Asian",
+        "Tibetan",
+        "Desserts"
+      ],
+      "avgRating": 4.9,
+      "parentId": "61955",
+      "avgRatingString": "4.9",
+      "totalRatingsString": "20+",
+      "sla": {
+        "deliveryTime": 31,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-05-22 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹149"
+      },
+      "orderabilityCommunication": {
+        "title": {
+          
+        },
+        "subTitle": {
+          
+        },
+        "message": {
+          
+        },
+        "customIcon": {
+          
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {
+        
+      }
+    },
+    "analytics": {
+      "context": "seo-data-c9574e21-7012-4e35-9c87-b78b56bca823"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/chinese-wok-bhuwana-nexus-celebration-mall-udaipur-862280",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "449324",
+      "name": "Pizza Hut",
+      "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+      "locality": "Forum Celebration Mall",
+      "areaName": "Bhuwana",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Pizzas"
+      ],
+      "avgRating": 4.2,
+      "parentId": "721",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "500+",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-05-22 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "orderabilityCommunication": {
+        "title": {
+          
+        },
+        "subTitle": {
+          
+        },
+        "message": {
+          
+        },
+        "customIcon": {
+          
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      }
+    },
+    "analytics": {
+      "context": "seo-data-c9574e21-7012-4e35-9c87-b78b56bca823"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/pizza-hut-forum-celebration-mall-bhuwana-udaipur-449324",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },]
+
+
+  export default resList
